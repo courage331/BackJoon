@@ -1,6 +1,8 @@
+package bfs;
+
 import java.util.*;
 
-public class Main {
+public class BJ1743 {
 
     static int n;
     static int m;
@@ -70,3 +72,4 @@ public class Main {
     }
 
 }
+
