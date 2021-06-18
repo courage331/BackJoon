@@ -4,4 +4,6 @@
 
 >[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331)
 
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331&tag=백준)](https://github.com/courage331/BackJoon)
+>최근 풀이
+
+>>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331&tag=백준)](https://github.com/courage331/BackJoon)
