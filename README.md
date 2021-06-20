@@ -1,5 +1,5 @@
 # BackJoon
-[BackJoon Algorithm 풀이 ](https://velog.io/@courage331/series/%EB%B0%B1%EC%A4%80)
+[BackJoon Algorithm 풀이](https://velog.io/@courage331/series/%EB%B0%B1%EC%A4%80)
 
 
 >[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331)
