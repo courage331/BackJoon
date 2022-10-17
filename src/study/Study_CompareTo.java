@@ -1,5 +1,6 @@
 package study;
 
+import java.sql.SQLOutput;
 import java.util.*;
 
 class Test implements Comparable<Test>{
@@ -48,6 +49,11 @@ public class Study_CompareTo {
         Collections.sort(arr);
         for(int i=0; i<arr.size(); i++) {
             System.out.println(arr.get(i));
+        }
+        String str="";
+        for(int i=0; i<500000; i++){
+            str+="1";
+            System.out.println(str);
         }
     }
 }
